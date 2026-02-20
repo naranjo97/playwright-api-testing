@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno secretas
+.env
+
+# Reportes generados
+playwright-report/
+test-results/
+test-results.json
+
+# Playwright
+.playwright/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
