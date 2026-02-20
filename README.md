@@ -99,8 +99,7 @@ playwright-api-testing/
 
 **1. Clona el repositorio:**
 ```bash
-git clone https://github.com/TU_USUARIO/playwright-api-testing.git
-cd playwright-api-testing
+git clone https://github.com/naranjo97/playwright-api-testing.git
 ```
 
 **2. Instala las dependencias:**
